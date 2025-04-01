@@ -12,7 +12,7 @@ This means that if you may redistribute these files under the following conditio
 ## Anyways
 Have fun playing these alphas! :3<br>
 Contact me if you want to report a bug or something:
-- Discord - `localsoapdrinker`
-- Twitter - [`@thesoapdrinker`](https://twitter.com/thesoapdrinker)
-- Tumblr - [`@localsoapdrinker`](https://tumblr.com/localsoapdrinker)
+- Discord - `soapguzzler`
+- Twitter - [`@soap_guzzler`](https://twitter.com/soap_guzzler)
+- Tumblr - [`thesoapguzzler`](https://tumblr.com/thesoapguzzler)
 - Bluesky (i never check this one) - [`localsoapdrinker.bsky.social`](https://bsky.app/profile/localsoapdrinker.bsky.social)
